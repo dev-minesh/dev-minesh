@@ -27,3 +27,9 @@ I am a software engineer from India 🇮🇳 I am working at [Mecha.org](https:/
 <a href="" target="_blank" title="Sentry" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sentryio/sentryio-icon.svg" alt="Sentry" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Nginx" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" width="30" height="30"/></a>&nbsp;&nbsp;
 
+### You can also find me on ...
+
+<a href="https://www.instagram.com/minesh_016/" title="Minesh Purohit" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="https://x.com/MineshPurohit9" target="_blank" title="Minesh Purohit" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="mailto:mineshp5670@gmail.com" target="_blank" title="minesh.purohit@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
+
