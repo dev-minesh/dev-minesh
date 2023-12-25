@@ -17,10 +17,13 @@ I am a software engineer from India 🇮🇳 I am working at [Mecha.org](https:/
 
 ### I have also worked with ...
 
+<a href="" target="_blank" title="Dotnet" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="Dotnet" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Reactjs" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="Reactjs" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Grafana" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Nats" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/natsio/natsio-icon.svg" alt="Nats" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Prometheus" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="GRPC" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" alt="GRPC" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Docker" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Sentry" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sentryio/sentryio-icon.svg" alt="Sentry" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Nginx" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" width="30" height="30"/></a>&nbsp;&nbsp;
 
